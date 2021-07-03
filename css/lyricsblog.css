@@ -1,0 +1,46 @@
+
+body {
+    background-image: url('https://cdn.wallpapersafari.com/87/56/fUCJ5Y.jpg');
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+
+}
+
+div {
+    background-color: #1f2833;
+
+    border: 1px solid aqua;
+    border-radius: 10px;
+    margin: 10px 750px;
+    text-align: center;
+}
+
+span {
+    color: #ffffff;
+}
+
+#auth {
+    color: aquamarine;
+    text-align: center;
+}
+
+.lyr {
+    color: #c5c6c7;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+    text-align: center;
+    color: aqua;
+}
+
+h2 {
+    font-family: cursive;
+    color: #ffffff;
+    text-align: center;
+}
+form{
+    text-align: center;
+}
+
