@@ -12,8 +12,11 @@ div {
 
     border: 1px solid aqua;
     border-radius: 10px;
-    margin: 10px 750px;
+    margin: 15px 20% auto;
     text-align: center;
+    
+    
+    
 }
 
 span {
